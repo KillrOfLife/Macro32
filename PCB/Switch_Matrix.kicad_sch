@@ -2,8 +2,14 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid "81c91356-623d-4ca4-ad00-157af75cc5c6")
+	(uuid "466ec632-47e4-4fc4-a0f8-70be64139358")
 	(paper "A4")
+	(title_block
+		(title "Macro32")
+		(date "2025-11-08")
+		(rev "v2")
+		(company "KillrOfLife")
+	)
 	(lib_symbols
 		(symbol "Device:RotaryEncoder_Switch"
 			(pin_names
@@ -1298,50 +1304,6 @@
 			)
 		)
 	)
-	(global_label "encoder2_0"
-		(shape input)
-		(at 45.72 57.15 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "177e9a70-a93d-419a-bad1-632ae26a5504")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 45.72 43.2792 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "encoder1_1"
-		(shape input)
-		(at 76.2 57.15 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "1e1eb488-7fe7-45b3-a5c4-d5de6245a53b")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 76.2 43.2792 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "Col 1"
 		(shape input)
 		(at 54.61 38.1 90)
@@ -1408,50 +1370,6 @@
 			)
 		)
 	)
-	(global_label "encoder2_1"
-		(shape input)
-		(at 50.8 57.15 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "48f5a07b-70ae-4090-aa05-ac4efb88d038")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 50.8 43.2792 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "encoder1_0"
-		(shape input)
-		(at 71.12 57.15 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "5ad98faa-e821-49e1-9a3c-e7301647915e")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 71.12 43.2792 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "Row 0"
 		(shape input)
 		(at 104.14 80.01 0)
@@ -1474,6 +1392,28 @@
 			)
 		)
 	)
+	(global_label "encoder1_1"
+		(shape input)
+		(at 50.8 57.15 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "75114294-fd70-4459-ba51-57c4dafa0566")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 50.8 43.2792 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "Row 3"
 		(shape input)
 		(at 105.41 153.67 0)
@@ -1487,6 +1427,72 @@
 		(uuid "7dd7bf24-d9c9-4878-bb5d-97b6f2de9d31")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 114.3218 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "encoder2_1"
+		(shape input)
+		(at 76.2 57.15 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9b80afe2-6fe9-43ef-82c9-5eb2716c3408")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 76.2 43.2792 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "encoder2_0"
+		(shape input)
+		(at 71.12 57.15 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a289940b-7a8d-4f52-973f-f5c43bcb049a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 71.12 43.2792 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "encoder1_0"
+		(shape input)
+		(at 45.72 57.15 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a58afcb5-94bd-4cb9-b430-ef89b8ec81f6")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 45.72 43.2792 90)
 			(effects
 				(font
 					(size 1.27 1.27)
