@@ -19,4 +19,4 @@ And the STL's for the case parts if you want that too. (you may need to download
 
 ## How to assemble
 
-For any help assembling this macropad refer to the [build guide](https://github.com/KillrOfLife/Macro32/blob/main/Buildguide.md).
+For any help assembling this macropad refer to the [build guide](https://github.com/KillrOfLife/Macro32/blob/main/buildguide.md).
