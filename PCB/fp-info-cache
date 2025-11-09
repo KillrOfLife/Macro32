@@ -1,4 +1,4 @@
-27995667627184689
+27993908147043754
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -111248,8 +111248,8 @@ OLED_SPI
 Connecteur 6 pins
 CONN DEV
 0
-4
-4
+5
+5
 kbd
 PJ-398A-5A_PJ-399B-6A
 
@@ -111306,13 +111306,6 @@ USB 2.0 C Type-C Receptacle SMD 16P 16C USB4110-GF-A
 0
 20
 17
-kbd
-Untitled
-
-
-0
-4
-4
 kbd
 YS-SK6812MINI-E
 
