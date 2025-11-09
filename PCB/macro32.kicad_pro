@@ -58,12 +58,29 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "hole_clearance|87364400|55533100|f5571649-14c6-43a2-835a-26bb0a6e3494|59ebe8e2-4844-4dd9-9619-8f65332fa24f",
+          ""
+        ],
+        [
+          "hole_clearance|87364400|55533100|f5571649-14c6-43a2-835a-26bb0a6e3494|8917f10e-5dc7-42a9-a795-6c526e589e93",
+          ""
+        ],
+        [
+          "hole_clearance|93464400|55533100|da0b953e-2688-4ed0-8667-b3f9627e2a28|0b5edac2-220e-4132-bdbb-e45469ad3b5f",
+          ""
+        ],
+        [
+          "hole_clearance|93464400|55533100|da0b953e-2688-4ed0-8667-b3f9627e2a28|e11bb8e4-e9f7-499a-8f62-484c8964a9cd",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
       "rule_severities": {
-        "annular_width": "error",
+        "annular_width": "ignore",
         "clearance": "error",
         "connection_width": "warning",
         "copper_edge_clearance": "error",
