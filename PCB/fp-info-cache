@@ -1,4 +1,4 @@
-27993908147043754
+27997435779232445
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -102074,6 +102074,13 @@ mounting hole 2.2mm no annular m2
 0
 0
 ScottoKeebs_Scotto
+SuperMini_NRF52850_pro_micro
+
+
+0
+26
+26
+ScottoKeebs_Scotto
 TestPoint
 THT pad as test Point, diameter 1.5mm, hole diameter 0.7mm
 test point THT pad
@@ -102087,6 +102094,13 @@ test point THT pad
 0
 1
 1
+ScottoKeebs_Scotto
+Untitled
+
+
+0
+26
+26
 ScottoKeebs_Stabilizer
 Stabilizer_MX_2.00u
 MX PCB Stabilizer 2.00u 2.25u 2.50u 2.75u
